@@ -1,0 +1,7 @@
+D:\Renz Files\My Code\C#\Complex Uses for Arrays\05LMSActivity1Sanchez\05LMSActivity1Sanchez\bin\Debug\05LMSActivity1Sanchez.exe.config
+D:\Renz Files\My Code\C#\Complex Uses for Arrays\05LMSActivity1Sanchez\05LMSActivity1Sanchez\bin\Debug\05LMSActivity1Sanchez.exe
+D:\Renz Files\My Code\C#\Complex Uses for Arrays\05LMSActivity1Sanchez\05LMSActivity1Sanchez\bin\Debug\05LMSActivity1Sanchez.pdb
+D:\Renz Files\My Code\C#\Complex Uses for Arrays\05LMSActivity1Sanchez\05LMSActivity1Sanchez\obj\Debug\05LMSActivity1Sanchez.csproj.AssemblyReference.cache
+D:\Renz Files\My Code\C#\Complex Uses for Arrays\05LMSActivity1Sanchez\05LMSActivity1Sanchez\obj\Debug\05LMSActivity1Sanchez.csproj.CoreCompileInputs.cache
+D:\Renz Files\My Code\C#\Complex Uses for Arrays\05LMSActivity1Sanchez\05LMSActivity1Sanchez\obj\Debug\05LMSActivity1Sanchez.exe
+D:\Renz Files\My Code\C#\Complex Uses for Arrays\05LMSActivity1Sanchez\05LMSActivity1Sanchez\obj\Debug\05LMSActivity1Sanchez.pdb

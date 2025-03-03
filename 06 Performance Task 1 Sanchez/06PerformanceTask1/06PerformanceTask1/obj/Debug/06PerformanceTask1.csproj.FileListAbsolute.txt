@@ -1,0 +1,7 @@
+D:\Renz Files\My Code\C#\06 Performance Task 1 Sanchez\06PerformanceTask1\06PerformanceTask1\bin\Debug\06PerformanceTask1.exe.config
+D:\Renz Files\My Code\C#\06 Performance Task 1 Sanchez\06PerformanceTask1\06PerformanceTask1\bin\Debug\06PerformanceTask1.exe
+D:\Renz Files\My Code\C#\06 Performance Task 1 Sanchez\06PerformanceTask1\06PerformanceTask1\bin\Debug\06PerformanceTask1.pdb
+D:\Renz Files\My Code\C#\06 Performance Task 1 Sanchez\06PerformanceTask1\06PerformanceTask1\obj\Debug\06PerformanceTask1.csproj.AssemblyReference.cache
+D:\Renz Files\My Code\C#\06 Performance Task 1 Sanchez\06PerformanceTask1\06PerformanceTask1\obj\Debug\06PerformanceTask1.csproj.CoreCompileInputs.cache
+D:\Renz Files\My Code\C#\06 Performance Task 1 Sanchez\06PerformanceTask1\06PerformanceTask1\obj\Debug\06PerformanceTask1.exe
+D:\Renz Files\My Code\C#\06 Performance Task 1 Sanchez\06PerformanceTask1\06PerformanceTask1\obj\Debug\06PerformanceTask1.pdb

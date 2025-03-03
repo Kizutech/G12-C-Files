@@ -1,0 +1,7 @@
+D:\Renz Files\My Code\C#\Arithmetic Operators\ArithmeticOperatorsSanchez\ArithmeticOperatorsSanchez\bin\Debug\ArithmeticOperatorsSanchez.exe.config
+D:\Renz Files\My Code\C#\Arithmetic Operators\ArithmeticOperatorsSanchez\ArithmeticOperatorsSanchez\bin\Debug\ArithmeticOperatorsSanchez.exe
+D:\Renz Files\My Code\C#\Arithmetic Operators\ArithmeticOperatorsSanchez\ArithmeticOperatorsSanchez\bin\Debug\ArithmeticOperatorsSanchez.pdb
+D:\Renz Files\My Code\C#\Arithmetic Operators\ArithmeticOperatorsSanchez\ArithmeticOperatorsSanchez\obj\Debug\ArithmeticOperatorsSanchez.csproj.AssemblyReference.cache
+D:\Renz Files\My Code\C#\Arithmetic Operators\ArithmeticOperatorsSanchez\ArithmeticOperatorsSanchez\obj\Debug\ArithmeticOperatorsSanchez.csproj.CoreCompileInputs.cache
+D:\Renz Files\My Code\C#\Arithmetic Operators\ArithmeticOperatorsSanchez\ArithmeticOperatorsSanchez\obj\Debug\ArithmeticOperatorsSanchez.exe
+D:\Renz Files\My Code\C#\Arithmetic Operators\ArithmeticOperatorsSanchez\ArithmeticOperatorsSanchez\obj\Debug\ArithmeticOperatorsSanchez.pdb
