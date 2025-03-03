@@ -1,0 +1,7 @@
+D:\Renz Files\My Code\C#\LabExer4-Sanchez\Person\Person\bin\Debug\Person.exe.config
+D:\Renz Files\My Code\C#\LabExer4-Sanchez\Person\Person\bin\Debug\Person.exe
+D:\Renz Files\My Code\C#\LabExer4-Sanchez\Person\Person\bin\Debug\Person.pdb
+D:\Renz Files\My Code\C#\LabExer4-Sanchez\Person\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+D:\Renz Files\My Code\C#\LabExer4-Sanchez\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\Renz Files\My Code\C#\LabExer4-Sanchez\Person\Person\obj\Debug\Person.exe
+D:\Renz Files\My Code\C#\LabExer4-Sanchez\Person\Person\obj\Debug\Person.pdb

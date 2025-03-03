@@ -1,0 +1,7 @@
+C:\Users\MY DESKTOP\source\repos\ProgramInputandOutputSanchez\ProgramInputandOutputSanchez\bin\Debug\ProgramInputandOutputSanchez.exe.config
+C:\Users\MY DESKTOP\source\repos\ProgramInputandOutputSanchez\ProgramInputandOutputSanchez\bin\Debug\ProgramInputandOutputSanchez.exe
+C:\Users\MY DESKTOP\source\repos\ProgramInputandOutputSanchez\ProgramInputandOutputSanchez\bin\Debug\ProgramInputandOutputSanchez.pdb
+C:\Users\MY DESKTOP\source\repos\ProgramInputandOutputSanchez\ProgramInputandOutputSanchez\obj\Debug\ProgramInputandOutputSanchez.csproj.AssemblyReference.cache
+C:\Users\MY DESKTOP\source\repos\ProgramInputandOutputSanchez\ProgramInputandOutputSanchez\obj\Debug\ProgramInputandOutputSanchez.csproj.CoreCompileInputs.cache
+C:\Users\MY DESKTOP\source\repos\ProgramInputandOutputSanchez\ProgramInputandOutputSanchez\obj\Debug\ProgramInputandOutputSanchez.exe
+C:\Users\MY DESKTOP\source\repos\ProgramInputandOutputSanchez\ProgramInputandOutputSanchez\obj\Debug\ProgramInputandOutputSanchez.pdb

@@ -1,0 +1,7 @@
+D:\Renz Files\My Code\C#\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Renz Files\My Code\C#\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Renz Files\My Code\C#\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Renz Files\My Code\C#\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\Renz Files\My Code\C#\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Renz Files\My Code\C#\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\Renz Files\My Code\C#\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb

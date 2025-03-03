@@ -1,0 +1,2 @@
+Computer, 5, Electronics
+Soap, 2, Groceries
